@@ -6,6 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class PrimeTest {
+    @SuppressWarnings("unused")
     private Prime prime;
 
     @Before
