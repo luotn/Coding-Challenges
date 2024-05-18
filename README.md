@@ -9,7 +9,7 @@ Answers must use multi thread when possible, must consider maintainbility and po
 # Questions
 - [x] 1. Find prime numbers in a range.
 - [x] 2. Find numbers with no same digits in a range.
-- [ ] 3. "Clap!" when count to 7.
+- [x] 3. "Clap!" when count to 7.
 - [ ] 4. Fibonacci Sequence.
 
 Will add more when I come up with more.
